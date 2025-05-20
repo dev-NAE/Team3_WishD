@@ -60,7 +60,6 @@
   
   <!-- WBS Images -->
   ![WBS](/WishD/images/WishD(ERD).png)
-  [ERD Cloud - 링크](https://www.erdcloud.com/d/42zucokaKfX9v68fE)
   
 </details>
 
