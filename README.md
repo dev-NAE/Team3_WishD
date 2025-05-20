@@ -31,6 +31,21 @@
 
 <hr>
 
+<details>
+  <summary>요구사항정의서</summary>
+  
+  <!-- WBS Images -->
+  ![WBS](/WishD/images/WishD(요구사항정의서1).png)
+  ![WBS](/WishD/images/WishD(요구사항정의서2).png)
+</details>
+
+<details>
+  <summary>플로우차트</summary>
+  
+  <!-- WBS Images -->
+  ![WBS](/WishD/images/WishD(플로우차트).png)
+  
+</details>
 
 <details>
   <summary>WBS</summary>
