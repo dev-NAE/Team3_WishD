@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <th>개발인원</th>
-    <td>6명 (팀장)</td>
+    <td>6명</td>
   </tr>
   <tr>
     <th>사용기술</th>
@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <th>개발 목적</th>
-    <td>개발자 들이 모여있고 서비스 관리자가 선별해주는 매칭 서비스 기획</td>
+    <td>프리랜서와 클라이언트를 매칭 해주는 서비스</td>
   </tr>
   <tr>
     <th>배포 주소</th>
@@ -32,8 +32,6 @@
 <hr>
 
 
-[나의 커밋 내역 및 코드 파일](https://github.com/geonokwon/Team3_WishD/commits/main?author=geonokwon)
-
 <details>
   <summary>WBS</summary>
   
@@ -47,7 +45,7 @@
   
   <!-- WBS Images -->
   ![WBS](/WishD/images/WishD(ERD).png)
-  [ERD Cloud - web 주소](https://www.erdcloud.com/d/rfkQRZTjBnvQHALp2)
+  [ERD Cloud - 링크](https://www.erdcloud.com/d/42zucokaKfX9v68fE)
   
 </details>
 
