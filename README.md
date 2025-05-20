@@ -51,7 +51,7 @@
   <summary>WBS</summary>
   
   <!-- WBS Images -->
-  ![WBS](/WishD/images/WIshD(WBS).png)
+  ![WBS](/WishD/images/WishD(WBS).png)
   
 </details>
 
@@ -68,9 +68,9 @@
   <summary>주요 작업(Front)</summary>
   
   <!-- Front Images -->
-  ![Front - 주요 작업](/WishD/images/WishD(Front)-1.png)
-  ![Front - 주요 작업](/WishD/images/WishD(Front)-2.png)
-  ![Front - 주요 작업](/WishD/images/WishD(Front)-3.png)
-  ![Front - 주요 작업](/WishD/images/WishD(Front)-4.png)
+  ![Front - 주요 작업](/WishD/images/WishD(front1).png)
+  ![Front - 주요 작업](/WishD/images/WishD(front2).png)
+  ![Front - 주요 작업](/WishD/images/WishD(front3).png)
+  ![Front - 주요 작업](/WishD/images/WishD(front4).png)
   
 </details>
